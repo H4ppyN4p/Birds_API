@@ -1,0 +1,3 @@
+Link to the design of the API
+
+https://docs.google.com/spreadsheets/d/1rY9LeFeXMnX-WsD7xp4O2fec8U7Adpe0KBn_EP3vnxw/edit?usp=sharing
